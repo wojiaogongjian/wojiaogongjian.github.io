@@ -40,10 +40,8 @@ home_logo_image:
   border: false
   url: css/images/homelogo.jpg
 
-
 # AboutPage background
 # about_big_image: [css/images/pose.jpg, css/images/sample.jpg, https://source.unsplash.com/collection/954550/1920x1080]
-
 
 # Archive pagination
 archive_pagination: true
@@ -53,7 +51,7 @@ archive_pagination: true
 post_catalog:
   enable: true
 # 开启主页摘要
-post_excerpt: true
+post_excerpt: false
 
 
 # Content
@@ -96,12 +94,12 @@ search:
 
 
 # comment ShortName, you can choose only ONE to display.
-gentie_productKey: #your-gentie-product-key
-duoshuo_shortname: 
-disqus_shortname: 
-livere_shortname:
-uyan_uid: 
-wumii: 
+# gentie_productKey: #your-gentie-product-key
+# duoshuo_shortname: 
+# disqus_shortname: 
+# livere_shortname:
+# uyan_uid: 
+# wumii: 
 
 
 # Code Highlight theme
@@ -130,28 +128,28 @@ show_count: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-google_site_verification:
-baidu_site_verification:
-qihu_site_verification:
+# google_site_verification:
+# baidu_site_verification:
+# qihu_site_verification:
 
 # Miscellaneous
-google_analytics:
-gauges_analytics:
-baidu_analytics:
-tencent_analytics:
-twitter:
-google_plus:
-fb_admins:
-fb_app_id:
+# google_analytics:
+# gauges_analytics:
+# baidu_analytics:
+# tencent_analytics:
+# twitter:
+# google_plus:
+# fb_admins:
+# fb_app_id:
 
 # Facebook SDK Support.
 # https://github.com/iissnan/hexo-theme-next/pull/410
 facebook_sdk:
   enable: false
-  app_id:       #<app_id>
-  fb_admin:     #<user_id>
-  like_button:  #true
-  webmaster:    #true
+#  app_id:       #<app_id>
+#  fb_admin:     #<user_id>
+#  like_button:  #true
+#  webmaster:    #true
 
 # CNZZ count
 # cnzz_siteid: 1260716016
@@ -165,9 +163,10 @@ show_busuanzi_view_counts: true
 donate:
     enable: false
     message: '如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作!'
-    wechatImage: https://raw.githubusercontent.com/iTimeTraveler/iTimeTraveler.github.io/site/source/about/donate/images/WeChanQR.png
-    alipayImage: https://raw.githubusercontent.com/iTimeTraveler/iTimeTraveler.github.io/site/source/about/donate/images/AliPayQR.jpg
+    wechatImage: 
+    alipayImage: 
     
 # post copyright
 copyright:
     enable: false
+
