@@ -33,7 +33,7 @@ home_background_image:
   enable: true
   mode: image
   rolling: true
-  url: [http://pc1wmuu3h.bkt.clouddn.com/1.jpg, http://pc1wmuu3h.bkt.clouddn.com/2.jpg, http://pc1wmuu3h.bkt.clouddn.com/3.jpg]
+  url: [http://pc1wmuu3h.bkt.clouddn.com/2.jpg, http://pc1wmuu3h.bkt.clouddn.com/3.jpg]
 
 home_logo_image:
   enable: false
