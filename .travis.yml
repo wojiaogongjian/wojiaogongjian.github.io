@@ -29,18 +29,21 @@ after_script:
   - git add .
   - git commit -m "Travis CI Auto Builder at `date +"%Y-%m-%d %H:%M"`"  # 提交记录包含时间 跟上面更改时区配合
   - git push --force --quiet "https://${Travis_Token}@${GH_REF}" master:master
+  - git push --force --quiet "https://${username}:${pw}@${CODING_ADD}" master:master  #Travis_Token是在Travis中配置环境变量的名称
+  
 branches:
     - gh-pages
     - ci
 env:
  global:
    - GH_REF: github.com/wojiaogongjian/wojiaogongjian.github.io.git  #设置GH_REF
+   - CODING_ADD: git.coding.net/wojiaogongjian/blog.git
 
 # configure notifications (email, IRC, campfire etc)
 # please update this section to your needs!
 # https://docs.travis-ci.com/user/notifications/
 notifications:
   email:
-    - xz2048@aliyun.com
+    - 260053176@qq.com
   on_success: change
   on_failure: always
