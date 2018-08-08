@@ -37,7 +37,7 @@ branches:
 env:
  global:
    - GH_REF: github.com/wojiaogongjian/wojiaogongjian.github.io.git  #设置GH_REF
-   - CODING_ADD: git.coding.net/wojiaogongjian/blog.git
+   - CODING_ADD: git.coding.net/wojiaogongjian/wojiaogongjian.git
 
 # configure notifications (email, IRC, campfire etc)
 # please update this section to your needs!
