@@ -44,6 +44,6 @@ env:
 # https://docs.travis-ci.com/user/notifications/
 notifications:
   email:
-    - xz2048@aliyun.com
+    - 260053176@qq.com
   on_success: change
   on_failure: always
