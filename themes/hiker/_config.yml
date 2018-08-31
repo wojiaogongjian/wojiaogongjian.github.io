@@ -33,8 +33,8 @@ home_background_image:
   enable: true
   mode: image
   rolling: true
-  url: http://pdydagtfd.bkt.clouddn.com/首页.jpg
-# 上面一行是大图
+  url: [http://pdydagtfd.bkt.clouddn.com/首页.jpg]
+
 
 home_logo_image:
   enable: false
