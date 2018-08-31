@@ -23,7 +23,7 @@ avatar:
   width: 124
   height: 124
   top: 0
-  url: [http://pdydagtfd.bkt.clouddn.com/124px.jpg]
+  url: http://pdydagtfd.bkt.clouddn.com/124px.jpg
 
 
 # Homepage
@@ -33,13 +33,13 @@ home_background_image:
   enable: true
   mode: image
   rolling: true
-  url: [http://pdydagtfd.bkt.clouddn.com/index.jpg]
+  url: http://pdydagtfd.bkt.clouddn.com/index.jpg
 # 上面一行是大图
 
 home_logo_image:
   enable: false
   border: false
-  url: [http://pdydagtfd.bkt.clouddn.com/logo.jpg]
+  url: http://pdydagtfd.bkt.clouddn.com/logo.jpg
 
 # AboutPage background
 # about_big_image: [css/images/pose.jpg, css/images/sample.jpg, https://source.unsplash.com/collection/954550/1920x1080]
