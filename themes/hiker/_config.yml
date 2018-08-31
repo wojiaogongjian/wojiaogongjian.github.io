@@ -11,7 +11,7 @@ menu:
   About: about
 rss: /atom.xml
 
-since: 2013
+since: 2018
 
 # Set default keywords (Use a comma to separate)
 keywords: ""
@@ -23,7 +23,7 @@ avatar:
   width: 124
   height: 124
   top: 0
-  url: css/images/mylogo.jpg
+  url: [http://pdydagtfd.bkt.clouddn.com/124px.jpg]
 
 
 # Homepage
@@ -33,13 +33,13 @@ home_background_image:
   enable: true
   mode: image
   rolling: true
-  url: [http://pc1wmuu3h.bkt.clouddn.com/2.jpg, http://pc1wmuu3h.bkt.clouddn.com/3.jpg]
+  url: [http://pdydagtfd.bkt.clouddn.com/首页.jpg]
 # 上面一行是大图
 
 home_logo_image:
   enable: false
   border: false
-  url: http://pdydagtfd.bkt.clouddn.com/博客logo.jpg
+  url: [http://pdydagtfd.bkt.clouddn.com/博客logo.jpg]
 
 # AboutPage background
 # about_big_image: [css/images/pose.jpg, css/images/sample.jpg, https://source.unsplash.com/collection/954550/1920x1080]
