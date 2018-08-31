@@ -34,11 +34,12 @@ home_background_image:
   mode: image
   rolling: true
   url: [http://pc1wmuu3h.bkt.clouddn.com/2.jpg, http://pc1wmuu3h.bkt.clouddn.com/3.jpg]
+# 上面一行是大图
 
 home_logo_image:
   enable: false
   border: false
-  url: css/images/homelogo.jpg
+  url: http://pdydagtfd.bkt.clouddn.com/博客logo.jpg
 
 # AboutPage background
 # about_big_image: [css/images/pose.jpg, css/images/sample.jpg, https://source.unsplash.com/collection/954550/1920x1080]
